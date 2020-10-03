@@ -9,12 +9,8 @@ const Home = () => {
         <div className='home_slider'>
           <HomeImageSlider />
         </div>
-        <div className='container'>
-          <div className='row'>
-            <div className='col-10 mx-auto '>
+        <div className='w-100'>
               <HomeService />
-            </div>
-          </div>
         </div>
       </div>
       <div className='my-5 text-center'>

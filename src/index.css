@@ -106,7 +106,7 @@
 /* HomeImageSlider css */
 .main_pages {
   /* background-color: #ccb647 !important; */
-  background-image: url('./img/back2.jpg');
+/*   background-image: url('./img/back2.jpg'); */
 }
 
 /* contact us page css */
@@ -130,7 +130,7 @@
   background-color: #ffbf00;
 }
 /* logo colouring */
-.fa {
+/* .fa {
   border-radius: 50%;
   padding: 20px;
   font-size: 30px;
@@ -226,4 +226,4 @@
 
 .fa-rss {
   background: #ff6600;
-}
+} */

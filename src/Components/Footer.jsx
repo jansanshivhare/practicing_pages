@@ -88,68 +88,7 @@ const Footer = () => {
               </div>
             </div>
           </div>
-          <div>
-            <h4 className='text-center mt-3'>Follow us on Social Media</h4>
-            <hr />
-            <div className='row text-center'>
-              <NavLink
-                to='#'
-                class=' m-auto w-100 h-100 col-lg-1 col-md-2 col-sm-2 col-3 fa fa-facebook text-white'
-              ></NavLink>
-              <NavLink
-                to='#'
-                class=' m-auto w-100 h-100 col-lg-1 col-md-2 col-sm-2 col-3 fa fa-twitter text-white'
-              ></NavLink>
-              <NavLink
-                to='#'
-                class=' m-auto w-100 h-100 col-lg-1 col-md-2 col-sm-2 col-3 fa fa-google text-white'
-              ></NavLink>
-              <NavLink
-                to='#'
-                class=' m-auto w-100 h-100 col-lg-1 col-md-2 col-sm-2 col-3 fa fa-linkedin text-white'
-              ></NavLink>
-              <NavLink
-                to='#'
-                class=' m-auto w-100 h-100 col-lg-1 col-md-2 col-sm-2 col-3 fa fa-youtube text-white'
-              ></NavLink>
-              <NavLink
-                to='#'
-                class=' m-auto w-100 h-100 col-lg-1 col-md-2 col-sm-2 col-3 fa fa-instagram text-white'
-              ></NavLink>
-              <NavLink
-                to='#'
-                class=' m-auto w-100 h-100 col-lg-1 col-md-2 col-sm-2 col-3 fa fa-pinterest text-white'
-              ></NavLink>
-              <NavLink
-                to='#'
-                class=' m-auto w-100 h-100 col-lg-1 col-md-2 col-sm-2 col-3 fa fa-snapchat-ghost text-white'
-              ></NavLink>
-              <NavLink
-                to='#'
-                class=' m-auto w-100 h-100 col-lg-1 col-md-2 col-sm-2 col-3 fa fa-skype text-white'
-              ></NavLink>
-              <NavLink
-                to='#'
-                class=' m-auto w-100 h-100 col-lg-1 col-md-2 col-sm-2 col-3 fa fa-android text-white'
-              ></NavLink>
-              <NavLink
-                to='#'
-                class=' m-auto w-100 h-100 col-lg-1 col-md-2 col-sm-2 col-3 fa fa-yahoo text-white'
-              ></NavLink>
-              <NavLink
-                to='#'
-                class=' m-auto w-100 h-100 col-lg-1 col-md-2 col-sm-2 col-3 fa fa-reddit text-white'
-              ></NavLink>
-              {/* <NavLink to='#' class='fa fa-dribbble text-white'></NavLink> */}
-              {/* <NavLink to='#' class='fa fa-vimeo text-white'></NavLink> */}
-              {/* <NavLink to='#' class='fa fa-tumblr text-white'></NavLink> */}
-              {/* <NavLink to='#' class='fa fa-vine text-white'></NavLink> */}
-              {/* <NavLink to='#' class='fa fa-foursquare text-white'></NavLink> */}
-              {/* <NavLink to='#' class='fa fa-stumbleupon text-white'></NavLink> */}
-              {/* <NavLink to='#' class='fa fa-flickr text-white'></NavLink> */}
-              {/* <NavLink to='#' class='fa fa-rss text-white'></NavLink> */}
-            </div>
-          </div>
+          
           <div className='footer__copyright'>
             <div className='text-center mt-4'>
               <p className='footer__copyright__text mb-0 pb-3'>
